@@ -1,0 +1,6 @@
+index.html
+products.html
+contact.html
+images/
+docs/
+brochure/
